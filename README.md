@@ -25,7 +25,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com)
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/anthonyharold67/personalAppBackend-ch11.git
+$ git clone https://github.com/huseyin-aln/Personnel-App-Django
 
 # Install dependencies
     $ python -m venv env
